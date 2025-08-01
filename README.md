@@ -13,7 +13,7 @@ This project tackles the challenge of predicting personality types based on beha
 
 ### Competition Results
 - **Public Leaderboard Rank**: 850/4331 (Top 20%)
-- **Private Leaderboard**: Performance dropped due to model selection strategy
+- **Private Leaderboard**: Performance dropped due to submission selection strategy
 - **Platform**: Kaggle Competition
 - **Category**: Classification Challenge
 
