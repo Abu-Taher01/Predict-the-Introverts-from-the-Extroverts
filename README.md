@@ -5,19 +5,19 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF.svg)](https://www.kaggle.com/competitions/predict-the-introverts-from-the-extroverts)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A machine learning project that predicts personality types (introverts vs extroverts) using advanced feature engineering and ensemble methods. This project achieved **Top 30%** ranking on the public leaderboard in the Kaggle competition.
+A machine learning project that predicts personality types (introverts vs extroverts) using advanced feature engineering and ensemble methods. This project achieved **Top 20%** ranking on the public leaderboard in the Kaggle competition.
 
 ## 🎯 Project Overview
 
 This project tackles the challenge of predicting personality types based on behavioral and psychological data. Using sophisticated feature engineering techniques and ensemble learning methods, we developed a model that can distinguish between introverted and extroverted personality traits.
 
 ### Competition Results
-- **Public Leaderboard Rank**: 665/2293 (Top 30%)
+- **Public Leaderboard Rank**: 850/4331 (Top 20%)
 - **Private Leaderboard**: Performance dropped due to model selection strategy
 - **Platform**: Kaggle Competition
 - **Category**: Classification Challenge
 
-**Note**: While the public leaderboard showed strong performance (Top 30%), the private leaderboard performance was significantly lower. This occurred because Kaggle automatically selected the best model from the public dataset submissions, but my alternative model (which performed better on cross-validation) was not selected for the final evaluation. This highlights the importance of proper model selection strategy in Kaggle competitions.
+**Note**: While the public leaderboard showed strong performance (Top 20%), the private leaderboard performance was significantly lower. This occurred because Kaggle automatically selected the best model from the public dataset submissions, but my alternative model (which performed better on cross-validation) was not selected for the final evaluation. This highlights the importance of proper model selection strategy in Kaggle competitions.
 
 ## 🚀 Features
 
@@ -134,7 +134,7 @@ This project demonstrates:
 ## 📈 Performance Metrics
 
 - **Cross-validation Score**: Consistent performance across folds
-- **Public Leaderboard Rank**: Top 30% (665/2293)
+- **Public Leaderboard Rank**: Top 20% (850/4331)
 - **Model Robustness**: Good generalization to unseen data
 - **Feature Importance**: Identified key psychological predictors
 
