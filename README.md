@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Related Links
 
-- [Kaggle Competition](https://www.kaggle.com/competitions/predict-the-introverts-from-the-extroverts)
+- [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s5e7/leaderboard?tab=public)
 - [Main Notebook](https://github.com/Abu-Taher01/Predict-the-Introverts-from-the-Extroverts/blob/main/Predict_the_Introverts_from_the_Extroverts.ipynb)
 - [EDA Notebook](https://github.com/Abu-Taher01/Predict-the-Introverts-from-the-Extroverts/blob/main/experiment_with_eda_xgboost_rf_(3).ipynb)
 
