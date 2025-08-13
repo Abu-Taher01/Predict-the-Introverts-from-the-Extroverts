@@ -17,7 +17,7 @@ This project tackles the challenge of predicting personality types based on beha
 - **Platform**: Kaggle Competition
 - **Category**: Classification Challenge
 
-**Note**: While the public leaderboard showed strong performance (Top 20%), the private leaderboard performance was significantly lower. This occurred because Kaggle automatically selected the best model from the public dataset submissions, but my alternative model (which performed better on cross-validation) was not selected for the final evaluation. This highlights the importance of proper model selection strategy in Kaggle competitions.
+**Note**: While the public leaderboard showed strong performance (Top 20%), the private leaderboard performance was significantly lower. This occurred because Kaggle automatically selected the best model from the public dataset submissions, but my alternative model (which performed better on cross-validation) was not selected for the final evaluation.
 
 ## 🚀 Features
 
